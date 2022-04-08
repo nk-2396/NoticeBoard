@@ -5,7 +5,7 @@
 This is a simple RESTful CRUD (Create Read Update Delete) application for managing Boards, Notices and Authors saved in PostgreSQL database. It provides basic REST endpoints like fetching all objects of given type, finding them by their id, creating them and so on.
 Testy
 ![data-model](https://github.com/wkrzywiec/NoticeBoard/blob/master/pics/data-model.png)
-
+trest
 ## Usage
 
 An application expose 5 REST endpoints for each entity. For example *Notice* (and any other) they are:
